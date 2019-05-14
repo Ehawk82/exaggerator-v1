@@ -1,0 +1,21 @@
+{
+  "name": "exaggerator-v1",
+  "version": "1.0.0",
+  "description": "DeScRiPTioN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "doit": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/exaggerator-v1.git"
+  },
+  "author": "Jason Graziano",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/exaggerator-v1/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/exaggerator-v1#readme"
+}
