@@ -2,10 +2,10 @@
   "name": "exaggerator-v1",
   "version": "1.1.0",
   "description": "DeScRiPTioN",
-  "main": ".index.js",
+  "main": "src/js/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node ./src/js/index.js"
   },
   "repository": {
     "type": "git",
