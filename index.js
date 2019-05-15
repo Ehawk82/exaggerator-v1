@@ -1,3 +1,3 @@
-function exagg(x) { return x.trim().toUpperCase() };
+function exagg(x) { return x };
 
 module.exports = { exagg: exagg };
