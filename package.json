@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/Ehawk82/exaggerator-v1/issues"
   },
-  "homepage": "https://github.com/Ehawk82/exaggerator-v1#readme",
-  "devDependencies": {
-    "screamer-test-impl": "file:../screamer"
-  }
+  "homepage": "https://github.com/Ehawk82/exaggerator-v1#readme"
 }
